@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+
+    <link rel="stylesheet" href="css/blog.css">
+    <link rel="stylesheet"href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+</head>
+
+
+
+<body>
+
+
+    
+<!-- HEADER -->
+
+<header class="top-header">
+
+    <div class="logo">
+        <img src="images/logo.JPG" alt="Logo">
+        <span> Personal Portfolio </span>
+    </div>
+
+    <nav class="navbar">
+        <a href="home.html">
+            <i class="fas fa-home"></i> Home
+        </a>
+        <a href="about.html">
+            <i class="fas fa-user"></i> About
+        </a>
+        <a href="blog.html" class="active">
+            <i class="fas fa-folder-open"></i> Blog
+        </a>
+        <a href="contact.html">
+            <i class="fas fa-envelope"></i> Contact
+        </a>
+    </nav>
+
+</header>
+
+
+
+<!-- MY ACHIEVEMENTS -->
+
+<section class="blog-header">
+
+    <h1>My Achievements</h1>
+
+    <p>
+        Some of the achievements and memorable experiences
+        throughout my university journey.
+    </p>
+
+</section>
+
+<div class="achievement-slider">
+
+    <div class="slide">
+        <img src="images/semester1.png">
+
+        <div class="slide-text">
+            <h3>Dean's List Award - Degree Semester 1</h3>
+            <p>Achieved a GPA of 3.77.</p>
+        </div>
+    </div>
+
+    <div class="slide">
+        <img src="images/semester2.png">
+
+        <div class="slide-text">
+            <h3>Dean's List Award - Degree Semester 2</h3>
+            <p>Achieved a GPA of 3.82.</p>
+        </div>
+    </div>
+
+    <div class="slide">
+        <img src="images/semester3.JPG">
+
+        <div class="slide-text">
+            <h3>Dean's List Award - Degree Semester 3</h3>
+            <p>Achieved a GPA of 3.60.</p>
+        </div>
+    </div>
+
+      <div class="slide">
+        <img src="images/semester4.JPG">
+
+        <div class="slide-text">
+            <h3>Dean's List Award - Degree Semester 4</h3>
+            <p>Achieved a GPA of 3.89.</p>
+        </div>
+    </div>
+
+       <div class="slide">
+        <img src="images/grad.JPG">
+
+        <div class="slide-text">
+      <h3>Diploma Graduation</h3>
+      <p>Graduated with a CGPA of 3.76.</p>
+        </div>
+    </div>
+
+
+    <button class="prev" onclick="plusSlides(-1)">❮</button>
+    <button class="next" onclick="plusSlides(1)">❯</button>
+
+</div>
+
+
+
+
+
+<!-- MY ARTWORK -->
+
+<section class="blog-header">
+
+   <h1>Activities & Programs</h1>
+
+<p>
+    Activities, community programs, and university events that helped develop my teamwork,
+    leadership, and communication skills.
+</p>
+
+</section>
+
+<section class="artwork-gallery">
+
+    <div class="artwork-box">
+        <img src="images/run.png">
+
+        <div class="artwork-text">
+             <h3>UNISZA Fun Run</h3>
+              <p>Participated in the UNISZA Fun Run to promote a healthy and active lifestyle.</p>
+        </div>
+    </div>
+
+    <div class="artwork-box">
+        <img src="images/sulam.jpg">
+
+        <div class="artwork-text">
+              <h3>SULAM Program</h3>
+              <p>Participated in Service-Learning Malaysia activities to contribute to the community.</p>
+        </div>
+    </div>
+
+    <div class="artwork-box">
+        <img src="images/koko.png">
+
+        <div class="artwork-text">
+            <h3>School Community Program</h3>
+        <p>Worked with team members to organize and conduct activities for school students.</p>
+        </div>
+    </div>
+
+</section>
+
+
+<!-- BLOG HEADER -->
+
+<section class="blog-header">
+
+  <h1>My Projects</h1>
+    <p>A collection of projects and practical work completed throughout my studies.</p>
+
+</section>
+
+
+<!-- ARTICLE 1 -->
+
+<section class="blog-post">
+
+    <img src="images/fyp (2).png" alt="Assignment">
+
+    <div class="post-content">
+
+        <h2>Virtual Human Anatomy Via Virtual Reality</h2>
+
+            <p>
+            This Final Year Project was developed using Unity and Virtual Reality (VR) technology to create an interactive learning environment for human anatomy.
+            </p>
+
+            <p>
+            Users can explore 3D models of bones, muscles, and organs while learning their names, locations, and functions in a more engaging way.
+            </p>
+
+            <p>
+            The system also includes a quiz feature that allows users to test their knowledge after learning. In addition, users can move around and explore the virtual environment, creating a more immersive learning experience.
+            </p>
+
+       <button class="read-more-btn"
+        onclick="toggleContent('assignment')">
+        See More  ▼
+        </button>
+
+       <div id="assignment" style="display:none;">
+
+           
+             <div class="project-gallery">
+
+                 <img src="images/fyp (1).png" alt="Project 1">
+
+                <img src="images/fyp (3).png" alt="Project 2">
+
+                <img src="images/fyp (4).png" alt="Project 3">
+
+                <img src="images/fyp (5).png" alt="Project 3">
+
+
+             </div>
+
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- ARTICLE 2 -->
+
+<section class="blog-post">
+
+    <img src="images/3D1.png" alt="3D Animation">
+
+    <div class="post-content">
+
+        <div class="post-content">
+
+
+       <h2>3D Animation</h2>
+
+        <p>
+        This project was developed using Blender as part of a final assessment to create a short 3D animation.
+        </p>
+
+        <p>
+        The project involved creating 3D models, designing scenes, and animating a character using various animation techniques. Through this project, I gained practical experience in 3D modelling, character creation, and animation development.
+        </p>
+
+        <p>
+        The animation tells a simple story about cleaning a living room. It begins with a messy environment and shows the process of organizing and cleaning the space until it becomes neat and tidy.
+        </p>
+
+       <button class="read-more-btn"
+        onclick="toggleContent('University Challenges')">
+        See More  ▼
+        </button>
+
+       <div id="University Challenges" style="display:none;">
+
+               <div class="project-gallery">
+
+                 <img src="images/3D.png" alt="Project 1">
+
+                <img src="images/3D3.png" alt="Project 2">
+
+                <img src="images/3D4.png" alt="Project 3">
+
+                <img src="images/3D2.png" alt="Project 3">
+
+
+             </div>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ARTICLE 3 -->
+
+<section class="blog-post">
+
+    <img src="images/3dmodel (4).png" alt="Productivity">
+
+    <div class="post-content">
+
+   <h2>3D Modelling</h2>
+
+    <p>
+        This project was developed using Autodesk Maya as part of a final assessment. The project focused on creating a 3D workshop environment by applying various modelling techniques.
+        </p>
+
+        <p>
+        The project involved designing and modelling different workshop tools and objects, including hammers, saws, nails, wood materials, and other equipment commonly found in a workshop.
+        </p>
+
+        <p>
+        In addition, a complete workshop scene was created by arranging the 3D objects within the environment. Through this project, I gained practical experience in 3D modelling, object creation, scene composition, and environment design using Maya.
+    </p>
+
+       <button class="read-more-btn"
+        onclick="toggleContent('Productivity')">
+        See More  ▼
+        </button>
+
+       <div id="Productivity" style="display:none;">
+
+        
+
+            <div class="project-gallery">
+
+                <img src="images/3dmodel (1).png" alt="Project 1">
+
+                <img src="images/3dmodel (2).png" alt="Project 2">
+
+                <img src="images/3dmodel (3).png" alt="Project 3">
+
+                <img src="images/3dmodel (5).png" alt="Project 3">
+
+
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- ARTICLE 4 -->
+
+<section class="blog-post">
+
+    <img src="images/photography (1).JPG" alt="Academic Success">
+
+    <div class="post-content">
+        <h2>Photography</h2>
+
+        <p>
+        This project was completed as part of a photography assignment using a Canon camera. The project focused on applying photography techniques to capture high-quality product images.
+        </p>
+
+        <p>
+        Several products were selected for the photoshoot, including lip matte products and hijabs. Different angles, lighting setups, and compositions were used to create attractive and professional-looking photographs.
+        </p>
+
+        <p>
+        Through this project, I gained practical experience in product photography, camera handling, lighting techniques, and photo composition while producing images suitable for promotional and marketing purposes.
+        </p>
+       <button class="read-more-btn"
+        onclick="toggleContent('Academic Success')">
+        See More  ▼
+        </button>
+
+       <div id="Academic Success" style="display:none;">
+
+       
+      <div class="project-gallery">
+
+                <img src="images/photography (2).JPG" alt="Project 1">
+
+                <img src="images/photography (3).JPG" alt="Project 2">
+
+                <img src="images/photography (4).JPG" alt="Project 3">
+
+                <img src="images/photography (5).JPG" alt="Project 3">
+
+
+            </div>
+
+    </div>
+
+    </div>
+</section>
+
+<!-- ARTICLE 5 -->
+
+<section class="blog-post">
+
+    <img src="images/video (2).png" alt="Videography">
+
+    <div class="post-content">
+      <h2>Videography</h2>
+
+        <p>
+        This project was completed as part of a final assessment focusing on environmental awareness. The video highlighted the importance of protecting the environment and encouraged positive actions towards sustainability.
+        </p>
+
+        <p>
+        Another videography project involved producing a short story video using only an iPhone 14 Pro Max. The project focused on storytelling, camera angles, shot composition, and creative video production techniques.
+        </p>
+
+        <p>
+        All footage was edited using CapCut Pro, where transitions, visual effects, background music, and color adjustments were applied to create engaging and professional-quality videos.
+        </p>
+       <button class="read-more-btn"
+        onclick="toggleContent('Videography')">
+        See More  ▼
+        </button>
+
+       <div id="Videography" style="display:none;">
+
+       
+      <div class="project-gallery">
+
+                <img src="images/video1.png" alt="Project 1">
+
+                <img src="images/video (3).png" alt="Project 2">
+
+                <img src="images/video (4).png" alt="Project 3">
+
+                <img src="images/video (5).png" alt="Project 3">
+
+
+            </div>
+
+    </div>
+
+    </div>
+</section>
+
+
+<!-- FOOTER -->
+
+<footer class="footer">
+
+    <div class="footer-left">
+        <p>© 2026 Ain Fathiyyah | Personal Blog</p>
+    </div>
+
+    <div class="footer-right">
+        <a href="mailto:nurfthyh@gmail.com">Email</a>
+
+        <a href="https://www.instagram.com/nurftt/" target="_blank">
+            Instagram
+        </a>
+
+        <a href="https://www.linkedin.com/in/nur-ain-fathiyyah"
+           target="_blank">
+            LinkedIn
+        </a>
+    </div>
+
+</footer>
+<script>
+
+function toggleContent(id){
+
+    let content = document.getElementById(id);
+
+    if(content.style.display === "block"){
+        content.style.display = "none";
+    }
+
+    else{
+        content.style.display = "block";
+    }
+}
+
+</script>
+
+<script>
+
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n){
+    showSlides(slideIndex += n);
+}
+
+function showSlides(n){
+
+    let slides =
+    document.getElementsByClassName("slide");
+
+    if(n > slides.length){
+        slideIndex = 1;
+    }
+
+    if(n < 1){
+        slideIndex = slides.length;
+    }
+
+    for(let i = 0; i < slides.length; i++){
+        slides[i].style.display = "none";
+    }
+
+    slides[slideIndex - 1].style.display = "block";
+}
+
+</script>
+
+</body>
+</html>
