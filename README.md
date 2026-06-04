@@ -66,16 +66,16 @@ Completed for Final Assessment.
 
 ### Home Page
 
-![Home](images/homepage.png)
+![Home](homepage.png)
 
 ### About Page
 
-![About](images/aboutpage.png)
+![About](aboutpage.png)
 
 ### Blog Page
 
-![Blog](images/blogpage.png)
+![Blog](blogpage.png)
 
 ### Contact Page
 
-![Contact](images/contactpage.png)
+![Contact](contactpage.png)
