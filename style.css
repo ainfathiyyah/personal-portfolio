@@ -327,6 +327,23 @@ nav a:hover{
     font-size:15px;
 }
 
+.view-btn{
+    display:inline-block;
+    margin-top:15px;
+    padding:10px 20px;
+    background:#6da7e5;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+.view-btn:hover{
+    background:#4c8cd6;
+    transform:translateY(-2px);
+}
+
 /* FOOTER */
 
 .footer{
