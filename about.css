@@ -258,6 +258,7 @@ nav a:hover{
 
 @media (max-width:768px){
 
+    /* HEADER */
     .top-header{
         flex-direction:column;
         height:auto;
@@ -265,15 +266,35 @@ nav a:hover{
     }
 
     .logo{
-        margin-bottom:15px;
+        margin-bottom:20px;
+    }
+
+    .logo img{
+        width:60px;
+        height:60px;
+    }
+
+    .logo span{
+        font-size:18px;
     }
 
     .navbar{
-        flex-wrap:wrap;
-        justify-content:center;
-        gap:15px;
+        width:100%;
+        justify-content:space-around;
+        gap:0;
+        margin-top:15px;
+        flex-wrap:nowrap;
     }
 
+    .navbar a{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        font-size:14px;
+        padding:5px;
+    }
+
+    /* ABOUT SECTION */
     .about-container{
         flex-direction:column;
         width:95%;
@@ -298,6 +319,11 @@ nav a:hover{
         font-size:32px;
     }
 
+    .about-text p{
+        font-size:15px;
+    }
+
+    /* EDUCATION / SKILLS */
     .info-section{
         flex-direction:column;
         width:95%;
@@ -313,6 +339,7 @@ nav a:hover{
         font-size:35px;
     }
 
+    /* FOOTER */
     .footer{
         flex-direction:column;
         gap:15px;
@@ -322,24 +349,5 @@ nav a:hover{
     .footer-right{
         flex-wrap:wrap;
         justify-content:center;
-    }
-
-    .hidden-content{
-        display:none;
-        margin-top:20px;
-    }
-
-    .read-more-btn{
-        background:#6fa8dc;
-        color:white;
-        border:none;
-        padding:10px 20px;
-        border-radius:5px;
-        cursor:pointer;
-        margin-top:10px;
-    }
-
-    .read-more-btn:hover{
-        background:#4c8cb8;
     }
 }
