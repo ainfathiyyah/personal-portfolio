@@ -433,6 +433,16 @@ body{
     transform:scale(1.03);
 }
 
+.post-content a{
+    color:#6fa8dc;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+.post-content a:hover{
+    text-decoration:underline;
+}
+
 
 
     /* MOBILE */
