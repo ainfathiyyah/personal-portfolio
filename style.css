@@ -393,14 +393,70 @@ nav a:hover{
 
 /* MOBILE */
 
-@media(max-width:768px){
+@media (max-width:768px){
 
-.footer{
-    flex-direction:column;
+    .top-header{
+        flex-direction:column;
+        height:auto;
+        padding:20px;
+    }
 
-    gap:15px;
+    .logo{
+        margin-bottom:15px;
+    }
 
-    text-align:center;
+    .navbar{
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:15px;
+    }
+
+    .hero{
+        width:95%;
+    }
+
+    .hero img{
+        height:350px;
+    }
+
+    .hero-content{
+        width:90%;
+        padding:20px;
+    }
+
+    .hero-content h2{
+        font-size:22px;
+    }
+
+    .hero-content p{
+        font-size:15px;
+    }
+
+    .journey{
+        width:95%;
+    }
+
+    .journey h2,
+    .topics h2{
+        font-size:30px;
+    }
+
+    .topic-card{
+        width:100%;
+        max-width:350px;
+    }
+
+    .footer{
+        flex-direction:column;
+        gap:15px;
+        text-align:center;
+    }
+
+    .footer-right{
+        flex-wrap:wrap;
+        justify-content:center;
+    }
 }
+
 
 }
