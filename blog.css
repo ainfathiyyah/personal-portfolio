@@ -462,52 +462,132 @@ nav a:hover{
     transform:scale(1.03);
 }
 
-/* MOBILE */
+
+
+    /* MOBILE */
 
 @media(max-width:900px){
 
-.blog-post{
-    flex-direction:column;
-}
+    .blog-post{
+        flex-direction:column;
+        width:95%;
+        padding:20px;
+    }
 
-.blog-post img{
-    width:100%;
-    min-width:100%;
-    height:250px;
-}
+    .blog-post img{
+        width:100%;
+        min-width:100%;
+        height:250px;
+    }
 
-.artwork-gallery{
-    grid-template-columns:repeat(2,1fr);
-}
+    .post-content h2{
+        font-size:26px;
+    }
 
+    .artwork-gallery{
+        grid-template-columns:repeat(2,1fr);
+    }
+
+    .achievement-slider{
+        width:90%;
+    }
+
+    .slide img{
+        height:350px;
+    }
 }
 
 @media(max-width:768px){
 
-.top-header{
-    flex-direction:column;
-    height:auto;
-    padding:20px;
-}
+    .top-header{
+        flex-direction:column;
+        height:auto;
+        padding:20px;
+    }
 
-.navbar{
-    margin-top:15px;
-}
+    .logo{
+        margin-bottom:15px;
+    }
 
-.footer{
-    flex-direction:column;
-    gap:15px;
-    text-align:center;
-}
+    .navbar{
+        flex-wrap:wrap;
+        justify-content:center;
+        gap:15px;
+        margin-top:15px;
+    }
 
-.hidden-content{
-    display:none;
-    margin-top:20px;
-}
+    .blog-header h1{
+        font-size:30px;
+    }
 
-.artwork-gallery{
-    grid-template-columns:1fr;
-}
+    .blog-header p{
+        font-size:15px;
+    }
 
+    .blog-post{
+        width:95%;
+        padding:20px;
+    }
+
+    .blog-post img{
+        width:100%;
+        height:220px;
+    }
+
+    .post-content h2{
+        font-size:24px;
+    }
+
+    .post-content p,
+    .post-content li{
+        font-size:15px;
+    }
+
+    .achievement-slider{
+        width:95%;
+        padding:15px;
+    }
+
+    .slide img{
+        height:250px;
+    }
+
+    .slide-text{
+        position:static;
+        max-width:100%;
+        margin-top:10px;
+    }
+
+    .prev,
+    .next{
+        padding:10px 15px;
+        font-size:18px;
+    }
+
+    .artwork-gallery{
+        grid-template-columns:1fr;
+    }
+
+    .project-gallery{
+        justify-content:center;
+    }
+
+    .project-gallery img{
+        width:100%;
+        max-width:300px;
+        height:auto;
+    }
+
+    .footer{
+        flex-direction:column;
+        gap:15px;
+        text-align:center;
+    }
+
+    .footer-right{
+        flex-wrap:wrap;
+        justify-content:center;
+    }
+}
 
 }
