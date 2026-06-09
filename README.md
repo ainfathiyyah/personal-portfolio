@@ -134,9 +134,12 @@ Users may also access the website directly through GitHub Pages without download
 You can access the live website here:
 
 **Website Link:**  
-https://ainfathiyyah.github.io/personal-portfolio/
+https://ainfathiyyah.github.io/personal-portfolio/home.html
 
 The website is fully responsive and can be viewed on desktop, tablet, and mobile devices.
+
+### GitHub Repository
+https://github.com/ainfathiyyah/personal-portfolio
 
 ---
 
@@ -164,6 +167,6 @@ Version control was managed using GitHub, while deployment was completed through
 
 **GitHub:** https://github.com/ainfathiyyah
 
-**Portfolio Website:** https://ainfathiyyah.github.io/personal-portfolio/
+
 
 
