@@ -61,6 +61,11 @@ Universiti Sultan Zainal Abidin (UNISZA)
 
 Completed for Final Assessment.
 
+## How To Run The Project 
+
+1. Open home.html in a web browser
+2. Navigate using the menu
+
 
 ## Screenshots
 
