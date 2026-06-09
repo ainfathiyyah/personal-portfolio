@@ -21,29 +21,31 @@ In addition, the project reflects entrepreneurial skills such as creativity, pro
 
 The website contains several interactive and user-friendly features designed to improve navigation and user experience:
 
-- Personal Portfolio Homepage  –  Provides a welcoming introduction and overview of my personal portfolio website.
+- **Personal Portfolio Homepage**  –  Provides a welcoming introduction and overview of my personal portfolio website.
+  
+- **Interactive Animations:** – The website includes fade-in, hover, and scroll animations to create a more engaging and interactive user experience.
 
-- About Me Section – Displays personal information, educational background, technical skills, soft skills, and work experience.
+- **About Me Section** – Displays personal information, educational background, technical skills, soft skills, and work experience.
 
-- Achievement Slider – Showcases academic achievements, Dean's List awards, certificates, and personal accomplishments through an interactive image slider.
+- **Achievement Slider** – Showcases academic achievements, Dean's List awards, certificates, and personal accomplishments through an interactive image slider.
 
-- Multimedia Project Showcase – Presents various academic and creative projects developed throughout my studies, including Virtual Reality, 3D Animation, Photography, Videography, and Web Development.
+- **Multimedia Project Showcase** – Presents various academic and creative projects developed throughout my studies, including Virtual Reality, 3D Animation, Photography, Videography, and Web Development.
 
-- Interactive "See More" Feature – Allows users to expand content and view additional project details without leaving the current page.
+- **Interactive "See More" Feature** – Allows users to expand content and view additional project details without leaving the current page.
 
-- External Video Links – Provides direct access to project demonstration videos through clickable YouTube links for better project presentation.
+- **External Video Links** – Provides direct access to project demonstration videos through clickable YouTube links for better project presentation.
 
-- Artwork Gallery – Displays selected creative works, digital designs, and multimedia content in a visually organized gallery layout.
+- **Artwork Gallery** – Displays selected creative works, digital designs, and multimedia content in a visually organized gallery layout.
 
-- Contact Information – Allows visitors to connect with me through Email, WhatsApp, and LinkedIn for communication and networking purposes.
+- **Contact Information** – Allows visitors to connect with me through Email, WhatsApp, and LinkedIn for communication and networking purposes.
 
-- Responsive Design – Ensures the website adapts smoothly across desktop, tablet, and mobile devices for a better user experience.
+- **Responsive Design** – Ensures the website adapts smoothly across desktop, tablet, and mobile devices for a better user experience.
 
-- Smooth Navigation System – Provides easy navigation between Home, About, Blog, and Contact pages through a consistent navigation menu.
+- **Smooth Navigation System** – Provides easy navigation between Home, About, Blog, and Contact pages through a consistent navigation menu.
 
-- Modern User Interface (UI) – Utilizes a clean layout, organized content structure, and attractive visual elements to enhance usability and readability.
+- **Modern User Interface (UI)** – Utilizes a clean layout, organized content structure, and attractive visual elements to enhance usability and readability.
 
-- GitHub Pages Deployment – The website is deployed using GitHub Pages, allowing it to be publicly accessible online without requiring a local server.
+- **GitHub Pages Deployment** – The website is deployed using GitHub Pages, allowing it to be publicly accessible online without requiring a local server.
 
 ---
 
@@ -51,13 +53,13 @@ The website contains several interactive and user-friendly features designed to 
 
 The following technologies were utilized throughout the development of this portfolio website:
 
-- HTML5 – Structure and content organization.
-- CSS3 – Layout design, styling, responsiveness, and animations.
-- JavaScript – Achievement slider, interactive buttons, and dynamic content display.
-- Font Awesome – Icons used throughout the navigation and interface.
-- Git & GitHub – Version control, project management, and repository hosting.
-- GitHub Pages – Website deployment and online hosting.
-- Visual Studio Code – Main development environment.
+- **HTML5** – Structure and content organization.
+- **CSS3** – Layout design, styling, responsiveness, and animations.
+- **JavaScript** – Achievement slider, interactive buttons, and dynamic content display.
+- **Font Awesome** – Icons used throughout the navigation and interface.
+- **Git & GitHub** – Version control, project management, and repository hosting.
+- **GitHub Pages** – Website deployment and online hosting.
+- **Visual Studio Code** – Main development environment.
   
 ---
 
@@ -127,16 +129,16 @@ To access or clone this repository:
 ```bash
 git clone https://github.com/ainfathiyyah/personal-portfolio.git
 ```
+[View Repository](https://github.com/ainfathiyyah/personal-portfolio)
+
 
 - **Open Locally:**
 
 Open the `home.html` file using any modern web browser.
 
-You can access the live website here:
-
 **Website Link:**  
-
-[Visit Live Website](https://ainfathiyyah.github.io/personal-portfolio/home.html)
+You can access the live website here:
+[Visit Portfolio](https://ainfathiyyah.github.io/personal-portfolio/home.html)
 
 ---
 
@@ -144,15 +146,6 @@ You can access the live website here:
 
 You can access the live website here:
 
-**Website Link:**  
-
-[Visit Live Website](https://ainfathiyyah.github.io/personal-portfolio/home.html)
-
-The website is fully responsive and can be viewed on desktop, tablet, and mobile devices.
-
-### GitHub Repository
-
-[View Repository](https://github.com/ainfathiyyah/personal-portfolio)
 
 ---
 
