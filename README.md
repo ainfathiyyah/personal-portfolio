@@ -14,9 +14,8 @@ The website serves as a digital portfolio that showcases my academic background,
 The portfolio highlights various projects developed throughout my studies, including web development, virtual reality applications, 3D animation, graphic design, photography, videography, and multimedia content creation. The website also demonstrates practical implementation of front-end web technologies, responsive design principles, and interactive user interface elements.
 
 In addition, the project reflects entrepreneurial skills such as creativity, problem-solving, independent learning, project management, and digital self-branding through the development of a professional online portfolio.
----
 
-## Features
+---
 
 ## 2. Key Features
 
@@ -24,41 +23,29 @@ The website contains several interactive and user-friendly features designed to 
 
 ## 2. Key Features
 
-- Personal Portfolio Homepage
-Provides a welcoming introduction and overview of my personal portfolio website.
+- Personal Portfolio Homepage  –  Provides a welcoming introduction and overview of my personal portfolio website.
 
-- About Me Section
-Displays personal information, educational background, technical skills, soft skills, and work experience.
+- About Me Section – Displays personal information, educational background, technical skills, soft skills, and work experience.
 
-- Achievement Slider
-Showcases academic achievements, Dean's List awards, certificates, and personal accomplishments through an interactive image slider.
+- Achievement Slider – Showcases academic achievements, Dean's List awards, certificates, and personal accomplishments through an interactive image slider.
 
-- Multimedia Project Showcase
-Presents various academic and creative projects developed throughout my studies, including Virtual Reality, 3D Animation, Photography, Videography, and Web Development.
+- Multimedia Project Showcase – Presents various academic and creative projects developed throughout my studies, including Virtual Reality, 3D Animation, Photography, Videography, and Web Development.
 
-- Interactive "See More" Feature
-Allows users to expand content and view additional project details without leaving the current page.
+- Interactive "See More" Feature – Allows users to expand content and view additional project details without leaving the current page.
 
-- External Video Links
-Provides direct access to project demonstration videos through clickable YouTube links for better project presentation.
+- External Video Links – Provides direct access to project demonstration videos through clickable YouTube links for better project presentation.
 
-- Artwork Gallery
-Displays selected creative works, digital designs, and multimedia content in a visually organized gallery layout.
+- Artwork Gallery – Displays selected creative works, digital designs, and multimedia content in a visually organized gallery layout.
 
-- Contact Information
-Allows visitors to connect with me through Email, WhatsApp, and LinkedIn for communication and networking purposes.
+- Contact Information – Allows visitors to connect with me through Email, WhatsApp, and LinkedIn for communication and networking purposes.
 
-- Responsive Design
-Ensures the website adapts smoothly across desktop, tablet, and mobile devices for a better user experience.
+- Responsive Design – Ensures the website adapts smoothly across desktop, tablet, and mobile devices for a better user experience.
 
-- Smooth Navigation System
-Provides easy navigation between Home, About, Blog, and Contact pages through a consistent navigation menu.
+- Smooth Navigation System – Provides easy navigation between Home, About, Blog, and Contact pages through a consistent navigation menu.
 
-- Modern User Interface (UI)
-Utilizes a clean layout, organized content structure, and attractive visual elements to enhance usability and readability.
+- Modern User Interface (UI) – Utilizes a clean layout, organized content structure, and attractive visual elements to enhance usability and readability.
 
-- GitHub Pages Deployment
-The website is deployed using GitHub Pages, allowing it to be publicly accessible online without requiring a local server.
+- GitHub Pages Deployment – The website is deployed using GitHub Pages, allowing it to be publicly accessible online without requiring a local server.
 
 ---
 
@@ -179,4 +166,4 @@ Version control was managed using GitHub, while deployment was completed through
 
 **Portfolio Website:** https://ainfathiyyah.github.io/personal-portfolio/
 
-![Contact](contactpage.png)
+
