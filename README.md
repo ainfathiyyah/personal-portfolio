@@ -21,8 +21,6 @@ In addition, the project reflects entrepreneurial skills such as creativity, pro
 
 The website contains several interactive and user-friendly features designed to improve navigation and user experience:
 
-## 2. Key Features
-
 - Personal Portfolio Homepage  –  Provides a welcoming introduction and overview of my personal portfolio website.
 
 - About Me Section – Displays personal information, educational background, technical skills, soft skills, and work experience.
@@ -62,6 +60,7 @@ The following technologies were utilized throughout the development of this port
 - Visual Studio Code – Main development environment.
   
 ---
+
 ## 4. Project Screenshots (Interface Comparison)
 
 ### Home Page
@@ -99,7 +98,6 @@ The following technologies were utilized throughout the development of this port
 | <img src="blog-desktop.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
 
 
-
 ### Contact Page
 
 | Desktop View (Laptop) | Mobile View (Phone) |
@@ -110,6 +108,7 @@ The following technologies were utilized throughout the development of this port
 | :---: | :---: |
 | <img src="contact-desktop.png" width="400"> | <img src="contact-mobile.jpg" width="200"> |
 
+---
 
 ## 5. How to Run the Project
 
