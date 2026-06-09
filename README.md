@@ -122,20 +122,23 @@ The following technologies were utilized throughout the development of this port
 
 To access or clone this repository:
 
-- **Clone the repository:**
+- **Clone the Repository:**
 
 ```bash
 git clone https://github.com/ainfathiyyah/personal-portfolio.git
 ```
 
 - **Open Locally:**
+
 Open the `home.html` file using any modern web browser.
 
-- **Alternative Access:**
-Users may also access the website directly through GitHub Pages without downloading the project files.
+- **Live Website:**
+
+Access the deployed website through GitHub Pages:
+
+https://ainfathiyyah.github.io/personal-portfolio/home.html
 
 ---
-
 ## 6. Project Demo
 
 You can access the live website here:
