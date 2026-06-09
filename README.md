@@ -110,11 +110,11 @@ The following technologies were utilized throughout the development of this port
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="laptopcontact1.png" width="400"> | <img src="mobilebcontact1.jpg" width="200"> |
+| <img src="laptopcontact1.png" width="400"> | <img src="mobilecontact1.jpg" width="200"> |
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="laptopcontact2.png" width="400"> | <img src="mobilebcontact2.jpg" width="200"> |
+| <img src="laptopcontact2.png" width="400"> | <img src="mobilecontact2.jpg" width="200"> |
 
 ---
 
