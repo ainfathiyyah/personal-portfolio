@@ -440,7 +440,10 @@ body{
         justify-content:center;
     }
 
-    @keyframes fadeIn{
+}
+
+
+  @keyframes fadeIn{
 
     from{
         opacity:0;
@@ -449,6 +452,4 @@ body{
     to{
         opacity:1;
     }
-
-}
 }
