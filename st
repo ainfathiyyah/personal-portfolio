@@ -132,24 +132,27 @@ git clone https://github.com/ainfathiyyah/personal-portfolio.git
 
 Open the `home.html` file using any modern web browser.
 
-- **Live Website:**
+You can access the live website here:
 
-Access the deployed website through GitHub Pages:
+**Website Link:**  
 
-https://ainfathiyyah.github.io/personal-portfolio/home.html
+[Visit Live Website](https://ainfathiyyah.github.io/personal-portfolio/home.html)
 
 ---
+
 ## 6. Project Demo
 
 You can access the live website here:
 
 **Website Link:**  
-https://ainfathiyyah.github.io/personal-portfolio/home.html
+
+[Visit Live Website](https://ainfathiyyah.github.io/personal-portfolio/home.html)
 
 The website is fully responsive and can be viewed on desktop, tablet, and mobile devices.
 
 ### GitHub Repository
-https://github.com/ainfathiyyah/personal-portfolio
+
+[View Repository](https://github.com/ainfathiyyah/personal-portfolio)
 
 ---
 
