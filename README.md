@@ -129,6 +129,7 @@ To access or clone this repository:
 ```bash
 git clone https://github.com/ainfathiyyah/personal-portfolio.git
 ```
+You can access the repository here:
 [View Repository](https://github.com/ainfathiyyah/personal-portfolio)
 
 
