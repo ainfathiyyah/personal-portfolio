@@ -177,6 +177,23 @@ function scrollDown() {
     </div>
 
 </footer>
+    <script>
+const cards = document.querySelectorAll('.topic-card');
+
+window.addEventListener('scroll', () => {
+
+    cards.forEach(card => {
+
+        const cardTop = card.getBoundingClientRect().top;
+
+        if(cardTop < window.innerHeight - 100){
+            card.classList.add('show');
+        }
+
+    });
+
+});
+</script>
 </body>
 
 </html>
