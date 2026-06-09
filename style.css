@@ -273,11 +273,13 @@ body{
     box-shadow:0 8px 20px rgba(0,0,0,0.08);
 
     transition:0.3s;
+    
+  
 }
 
 
 .topic-card:hover{
-    transform:translateY(-10px);
+    transform:translateY(-10px) scale(1.05);
 
     box-shadow:0 15px 30px rgba(0,0,0,0.15);
 }
@@ -452,4 +454,35 @@ body{
     to{
         opacity:1;
     }
+}
+
+
+@keyframes slideUp{
+
+    from{
+        opacity:0;
+        transform:translateY(150px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+
+}
+
+.topic-card:nth-child(1){
+    animation:slideUp 0.6s ease;
+}
+
+.topic-card:nth-child(2){
+    animation:slideUp 1.2s ease;
+}
+
+.topic-card:nth-child(3){
+    animation:slideUp 1.8s ease;
+}
+
+.topic-card:nth-child(4){
+    animation:slideUp 2.4s ease;
 }
