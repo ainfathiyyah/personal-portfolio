@@ -67,46 +67,54 @@ The following technologies were utilized throughout the development of this port
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="home-desktop.png" width="400"> | <img src="home-mobile.jpg" width="200"> |
+| <img src="laptophome1.png" width="400"> | <img src="home-mobile.jpg" width="200"> |
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="home-desktop.png" width="400"> | <img src="home-mobile.jpg" width="200"> |
+| <img src="laptophome2.png" width="400"> | <img src="home-mobile.jpg" width="200"> |
 
 ### About Page
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="about-desktop.png" width="400"> | <img src="about-mobile.jpg" width="200"> |
+| <img src="laptopabout1.png" width="400"> | <img src="about-mobile.jpg" width="200"> |
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="about-desktop.png" width="400"> | <img src="about-mobile.jpg" width="200"> |
+| <img src="laptopabout2.png" width="400"> | <img src="about-mobile.jpg" width="200"> |
 
 ### Blog Page
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="blog-desktop.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
+| <img src="laptopblog1.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="blog-desktop.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
+| <img src="laptopblog2.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="blog-desktop.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
+| <img src="laptopblog3.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
+
+| Desktop View (Laptop) | Mobile View (Phone) |
+| :---: | :---: |
+| <img src="laptopblog4.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
+
+| Desktop View (Laptop) | Mobile View (Phone) |
+| :---: | :---: |
+| <img src="laptopblog5.png" width="400"> | <img src="blog-mobile.jpg" width="200"> |
 
 
 ### Contact Page
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="contact-desktop.png" width="400"> | <img src="contact-mobile.jpg" width="200"> |
+| <img src="laptopcontact1.png" width="400"> | <img src="contact-mobile.jpg" width="200"> |
 
 | Desktop View (Laptop) | Mobile View (Phone) |
 | :---: | :---: |
-| <img src="contact-desktop.png" width="400"> | <img src="contact-mobile.jpg" width="200"> |
+| <img src="laptopcontact2.png" width="400"> | <img src="contact-mobile.jpg" width="200"> |
 
 ---
 
