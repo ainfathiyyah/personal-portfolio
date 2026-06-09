@@ -116,6 +116,14 @@ body{
     color:#2c3e50;
     margin-bottom:15px;
     font-size:28px;
+    
+    overflow:hidden;
+    white-space:nowrap;
+    border-right:3px solid #175793;
+
+    animation:
+    typing 3s steps(30,end),
+    blink 0.8s infinite;
 }
 
 .hero-content p{
@@ -461,6 +469,27 @@ body{
         opacity:1;
     }
 }
+
+@keyframes typing{
+
+    from{
+        width:0;
+    }
+
+    to{
+        width:100%;
+    }
+
+}
+
+@keyframes blink{
+
+    50%{
+        border-color:transparent;
+    }
+
+}
+
 
 
 
