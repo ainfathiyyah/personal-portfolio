@@ -17,7 +17,7 @@ In addition, the project reflects entrepreneurial skills such as creativity, pro
 
 ---
 
-## 2. Key Features
+## 3. Key Features
 
 The website contains several interactive and user-friendly features designed to improve navigation and user experience:
 
@@ -49,7 +49,7 @@ The website contains several interactive and user-friendly features designed to 
 
 ---
 
-## 3. Technologies Used
+## 4. Technologies Used
 
 The following technologies were utilized throughout the development of this portfolio website:
 
@@ -63,7 +63,7 @@ The following technologies were utilized throughout the development of this port
   
 ---
 
-## 4. Project Screenshots (Interface Comparison)
+## 5. Project Screenshots (Interface Comparison)
 
 ### Home Page
 
@@ -120,7 +120,7 @@ The following technologies were utilized throughout the development of this port
 
 ---
 
-## 5. How to Run the Project
+## 6. How to Run the Project
 
 To access or clone this repository:
 
@@ -143,7 +143,7 @@ You can access the live website here:
 
 ---
 
-## 6. Project Demo
+## 7. Project Demo
 
 ### Video Demonstration
 
@@ -151,7 +151,7 @@ You can access the live website here:
 
 ---
 
-## 7. Development Process
+## 8. Development Process
 
 The development process began with planning the website structure and organizing content for each page, including Home, About, Blog, and Contact.
 
@@ -165,7 +165,7 @@ Version control was managed using GitHub, while deployment was completed through
 
 ---
 
-## 8. Author
+## 9. Author
 
 **Name:** Nur Ain Fathiyyah Binti Mohd Suhaimi
 
@@ -173,7 +173,7 @@ Version control was managed using GitHub, while deployment was completed through
 
 **University:** Universiti Sultan Zainal Abidin (UNISZA)
 
-**GitHub:** https://github.com/ainfathiyyah
+**GitHub:** [ainfathiyyah](https://github.com/ainfathiyyah)
 
 
 
